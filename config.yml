@@ -1,0 +1,24 @@
+title: <p align="center"> Harish Ranganathan </p>
+logo: /assets/img/harish.jpg
+
+description:
+  <p align="center">
+  # <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/harishr1308/">LinkedIn</a> |
+  <a href="https://github.com/harishr1308">GitHub</a>
+  
+  <br>   
+  Greetings, I’m Harish. I’m a full stack developer living in Bangalore, Karnataka, India. I've got about 7 years of experience in building software from scratch and leading teams.
+  A pioneering developer and solutions specialist in AI, gaming and public policy space. As a Senior Lead Developer at Indian and Los Angeles-based defense and space company 114 AI Innovation, I have been an integral part of exploration project SpaceWise. Through SpaceWise, I am currently employing cognitive AI and an array of disruptive data fusion techniques to advance both space command and control. Engaging both allies and commercial partners, the SpaceWise tool-set has been vital to visualizing, analyzing and obtaining data in this endeavor.
+  My previous stint was to build games and simulations to aid and affect public policy. As Researcher and Full-Stack Developer at Indian non-profit Fields of View, bringing innovation at the intersection of technology, social sciences and art to design original tools for policymakers. These included UNESCO-MGIEP funded educational game Cantor’s World and a Unity Game Engine-powered robotic arms simulation (with the Institute of Plasma Research), among others.
+  I have also developed visionary artist-filmmaker Paromita Vohra’s poetic installation ‘A Love Latika.’
+  A true technophile at heart, always eager to learn and innovate. Over the years, working with different projects has made me language and framework agnostic.
+  I've built various tools over the years ranging from Android apps, web-apps, games and simulations to frameworks which are built from scratch for proprietary purposes.
+  I'm language and framework agnostic and a very quick learner. Most of my development experience comes from being the sole developer to a multi-disciplinary team. This experience has taught me the basics of what goes into an application and having been involved right from problem formulation all the way to deployment and maintenance of the same.
+  <br>
+  </p>
+
+
+
+theme: jekyll-theme-minimal
+
